@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'SinkinSans';
-  src: url(fonts/SinkinSans-400Regular.otf) format("opentype");
+  font-family: "SinkinSans";
+  src: url(https://callumstudios.github.io/fonts/SinkinSans-400Regular.woff) format('woff');
 }
 
 p {
