@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'SinkinSans';
-  src: url(fonts/SinkinSans-400Regular.ttf);
+  src: url(fonts/SinkinSans-400Regular.otf) format("opentype");
 }
 
 p {
