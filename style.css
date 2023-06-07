@@ -1,13 +1,16 @@
-@import url('https://fonts.cdnfonts.com/css/sinkin-sans-400-regular');
+@font-face {
+  font-family: 'SinkinSans';
+  src: url(fonts/SinkinSans-400Regular.otf);
+}
 
 h1 {
-  font-family: 'Sinkin Sans 700 Bold', sans-serif;
+  font-family: 'SinkinSansBold', sans-serif;
 }
 
 h2 {
-  font-family: 'Sinkin Sans 500 Medium', sans-serif;
+  font-family: 'SinkinSansMedium', sans-serif;
 }
 
 p {
-  font-family: 'Sinkin Sans 400 Regular', sans-serif;
+  font-family: 'SinkinSans', sans-serif;
 }
