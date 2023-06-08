@@ -18,7 +18,7 @@ body {
   background-image: linear-gradient(#09090B, #6B1107);
 }
 
-div.container4 p {
+.center {
     margin: 0;
     position: absolute;
     top: 50%;
