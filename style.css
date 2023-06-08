@@ -1,8 +1,10 @@
 @font-face {
-  font-family: "SinkinSans";
-  src: url(https://callumstudios.github.io/fonts/SinkinSans-400Regular.woff) format('woff');
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
 }
 
 p {
-  font-family: 'SinkinSans', sans-serif;
+  font-family: 'Product Sans', sans-serif;
 }
