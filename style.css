@@ -6,16 +6,12 @@
 }
 
 @font-face {
-  font-family: 'Sinkin Sans Bold';
-  font-style: normal;
+  font-family: 'Sinkin Sans';
+  font-style: bold;
   font-weight: 700;
   src: url(fonts/SinkinSans-700Bold.woff) format('woff');
 }
 
-h1 {
-  font-family: Sinkin Sans Bold;
-}
-
-p {
-  font-family: Sinkin Sans;
+body {
+  font-family: 'Sinkin Sans';
 }
